@@ -3,3 +3,5 @@ Hello World
 New line
 
 In bug1 fix
+
+In bug2 fix
