@@ -11,5 +11,8 @@ Change 5: test push to remote
 
 Change 6: This is by teammate for CR1 to test rebase
 
+
 Change 7: Teammate change for CR2 on remote master
+
+Change 8: To fix bug 3
 
