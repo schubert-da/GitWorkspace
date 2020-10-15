@@ -1,5 +1,9 @@
 Hello World today in October, 2020.
 
-New line from master branch
 
-WI5 done by teammate on master.
+Change 1: New line from master branch
+
+Change 2: WI5 done by teammate on master.
+
+Change 3: To test rebase in EN1.
+
