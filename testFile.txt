@@ -1,5 +1,7 @@
 Hello World
 
-New line
+New line here.
 
 In bug1 fix
+
+Change 3: by teammate on WI3
